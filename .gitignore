@@ -1,0 +1,9 @@
+# Python
+__pycache__
+.Ds_Store
+src/.Ds_Store
+*.pyc
+*.pyo
+.venv
+.idea
+.conda
